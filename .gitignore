@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / captures
+*.log
+*.pcap
+*.pcapng
+
+# Credentials / secrets
+.env
+*.key
+*.pem
+credentials.txt
+
+# Splunk local runtime files
+*.bundle
